@@ -20,7 +20,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 
 public class Test1 {
 	//AndroidDriver driver = null;
-	
+	//
 
 	private final static Logger log=Logger.getLogger(Test1.class);
 
